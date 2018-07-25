@@ -78,7 +78,6 @@ function book (nomeLivro){
         }
     }
     return nomeLivro === undefined ? obj : obj[ nomeLivro ];
-
 }
 
 /*
