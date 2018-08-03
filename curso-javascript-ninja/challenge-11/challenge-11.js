@@ -69,7 +69,6 @@ for(var i = 0; i<=20;i++){
     }
 
     numbers.push(i);
-
 }
 
 console.log('De 0 a 10')
